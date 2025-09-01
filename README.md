@@ -1,2 +1,2 @@
-# jetstream.github.io
+# jetstream
 JetStream temporary landing page
